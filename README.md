@@ -52,8 +52,8 @@ That's why I believe the analyst is the link between the numbers and the floor:
 
 ## 📬 Contact
 
-📧 Email: Danle2510.work@gmail.
+📧 Email: Danle2510.work@gmail
 
-💼 LinkedIn: www.linkedin.com/in/danle2510
+💼 LinkedIn: in/danle2510
 
 📍 Location: Toronto, ON, Canada
