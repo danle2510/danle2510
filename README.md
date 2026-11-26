@@ -14,8 +14,11 @@ I'm a supply chain professional moving into analytics. I started on the operatio
 How I use data to solve problems:
 
 🔍 Make the problem visible. At Rogers Communications, backorder status was split between ServiceNow and Oracle. I combined both into a weekly-refreshed Power BI dashboard that shows vendor, ETA, and backorder aging in one place, so managers know what to chase first.
+
 📈 Plan ahead instead of reacting. I'm building next year's demand forecast and inventory control plan, so purchasing decisions rest on expected demand rather than guesswork.
+
 ⚖️ Balance cost and service. I look at safety stock, reorder points, and vendor lead times together, to hold enough stock to avoid shortages without tying up cash in excess inventory.
+
 🗣️ Translate numbers into action. Every analysis ends with a clear recommendation that managers and technicians can use.
 
 🎯 Where I'm headed: a Supply Chain Analyst role focused on demand forecasting, inventory optimization, and KPI reporting.
