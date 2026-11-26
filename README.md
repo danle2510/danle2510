@@ -46,7 +46,7 @@ That's why I believe the analyst is the link between the numbers and the floor:
 
 ## 🎓 Education
 
-Bachelor of Commerce – Supply Chain Management Humber Polytechnic · Toronto, ON · Completed May 2025
+***Bachelor of Commerce – Supply Chain Management Humber Polytechnic · Toronto, ON · Completed May 2025***
 
 ---
 
