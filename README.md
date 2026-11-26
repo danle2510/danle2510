@@ -1,2 +1,2 @@
 ## 🗝️ Dan Le
-**Supply Chain Analyst | Telecommunication & Manufacturing & Retail Background
+**Supply Chain Analyst | Telecommunication & Manufacturing & Retail Background**
