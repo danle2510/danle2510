@@ -28,7 +28,7 @@ That's why I believe the analyst is the link between the numbers and the floor:
 
 ---
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 💻 Languages & Tools
 
@@ -43,3 +43,16 @@ That's why I believe the analyst is the link between the numbers and the floor:
 <p> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white"/> </p>
 
 ---
+
+🎓 Education
+
+Bachelor of Commerce – Supply Chain Management Humber Polytechnic · Toronto, ON · Completed May 2025
+
+---
+
+📬 Contact
+
+
+<p> <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Danle2510.work@gmail.-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/danle2510"><img src="https://img.shields.io/badge/LinkedIn-Dan%20Le-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-View-222222?style=for-the-badge&logo=githubpages&logoColor=white"/></a> <a href="https://app.powerbi.com/YOUR-REPORT-LINK"><img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a> </p>
+
+📍 Toronto, ON, Canada
