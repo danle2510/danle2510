@@ -7,18 +7,19 @@
 
 ## 🔎 About Me
 
-Every supply chain problem leaves a trail in the data: a late vendor, a forecast that missed, stock sitting in the wrong place. My job is to find that trail, explain it, and turn it into a decision.
+I'm a supply chain professional with a background in inventory, purchasing, and logistics, now moving toward a Supply Chain Analyst role where data drives every decision.
 
-I'm a supply chain professional moving into analytics. I started on the operations side of inventory, purchasing, and logistics, so I know what the problems look like on the floor. Now I use SQL, Python, and Power BI to solve them at the source.
+A supply chain moves goods, but it runs on decisions: what to buy, how much to hold, which vendor to trust, when to act. Made on gut feel, those decisions cost money in stockouts, excess inventory, and late deliveries. Made with data, they become predictable, measurable, and improvable.
 
-How I use data to solve problems:
+That's why I believe the analyst is the link between the numbers and the floor:
 
-🔍 Make the problem visible. At Rogers Communications, backorder status was split between ServiceNow and Oracle. I combined both into a weekly-refreshed Power BI dashboard that shows vendor, ETA, and backorder aging in one place, so managers know what to chase first.
 
-📈 Plan ahead instead of reacting. I'm building next year's demand forecast and inventory control plan, so purchasing decisions rest on expected demand rather than guesswork.
+🔍 Data shows the problem before it becomes a crisis
 
-⚖️ Balance cost and service. I look at safety stock, reorder points, and vendor lead times together, to hold enough stock to avoid shortages without tying up cash in excess inventory.
+📈 Forecasts replace reaction with planning
 
-🗣️ Translate numbers into action. Every analysis ends with a clear recommendation that managers and technicians can use.
+⚖️ Analysis finds the balance between cost and service
 
-🎯 Where I'm headed: a Supply Chain Analyst role focused on demand forecasting, inventory optimization, and KPI reporting.
+🗣️ Insights only matter when they lead to action
+
+---
