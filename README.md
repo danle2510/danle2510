@@ -36,7 +36,7 @@ That's why I believe the analyst is the link between the numbers and the floor:
 
 📈 Analytics
 
-<p> <img src="https://img.shields.io/badge/Data%20Cleaning-1F6FEB?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-1F6FEB?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Hypothesis%20Testing-8250DF?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Clustering-8250DF?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Time--Series%20Forecasting-8250DF?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/KPI%20Dashboarding-0E8A16?style=for-the-badge&logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/Inventory%20Optimization-1F6FEB?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Hypothesis%20Testing-8250DF?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Clustering-8250DF?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Time--Series%20Forecasting-8250DF?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/KPI%20Dashboarding-0E8A16?style=for-the-badge&logoColor=white"/> </p>
 
 🏢 Platforms
 
